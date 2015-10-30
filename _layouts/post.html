@@ -1,0 +1,24 @@
+---
+layout: base
+topMenu: Blog
+menuLink: /blog
+---
+
+<h2>{{ page.title }}</h2>
+
+{{ content }}
+
+<small>Written by D&ouml;rte de Kok, {{ page.date | date_to_string }}</small>
+
+  <ul class="posts">
+    {% assign p = page.previous %}{% if p %}
+    <li><span>Previous: {{ p.date | date_to_string }}</span> &raquo; <a href="{{ p.url }}">{{ p.title }}</a></li>
+    {% endif %}
+    {% assign p = page.next %}{% if p %}
+    <li><span> Next: {{ p.date | date_to_string }}</span> &raquo; <a href="{{ p.url }}">{{ p.title }}</a></li>
+    {% endif %}
+  </ul>
+
+<a href="{{ page.url }}#disqus_thread">View Comments</a>
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="http://disqus.com/forums/doertesblog/embed.js"></script>
