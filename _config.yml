@@ -1,2 +1,4 @@
 kramdown:
   input: GFM
+lsi: false
+permalink: /Blog/:year/:month/:day/:title
