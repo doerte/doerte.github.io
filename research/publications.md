@@ -9,6 +9,8 @@ menuLink: index.html
 
 Publications 
 ------------
+Arslan, S., de Kok, D. & Bastiaanse, R. (accepted). Processing grammatical evidentiality and time reference in Turkish heritage and monolingual speakers. *Bilingualism: Language and Cognition*.
+
 De Kok, Daniel, de Kok, Dörte & Hinrichs, Marie (2014). [Build your own treebank](http://www.clarin.eu/sites/default/files/cac2014_submission_8_0.pdf). *Proceedings of the CLARIN Annual Conference*.  Soesterberg, The Netherlands.
 
 Arslan, S., de Kok, D. & Bastiaanse, R. (2013). A fragile category: Turkish evidential source markers in agrammatism and bilingualism. [*Stem-, Spraak- en Taalpathologie* 18 (S01)](http://rjh.ub.rug.nl/sstp/article/view/11250/8753), 116-119.
