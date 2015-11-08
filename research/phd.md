@@ -49,17 +49,3 @@ Prof. Dr. Roelien Bastiaanse
 ### Funding
 
 This project was funded by an Ubbo Emmius Fellowship
-
-### References
-
-Buchman, A., Garron, D. C., Trost-Cardamone, J. E., Wichter, M. D. and Schwartz, M. (1986). Word deafness: one hundred years later. Journal of Neurology, Neurosurgery and Psychiatry, 49 (5), 489-499.
-
-Campbell, R., Garwood, J., Franklin, S., Howard, D., Landis, T. and Regard, M. (1990). Neuropsychological studies of auditory-visual fusion illusions. Four case studies and their implications. Neuropsychologia, 28 (8), 787-802.
-
-Klitsch, J. (2008). Open your eyes and listen carefully. Auditory and audiovisual speech perception and the McGurk effect in Dutch speakers with and without aphasia. PhD-Thesis, University of Groningen.
-
-McGurk, H. and MacDonald, J. (1976). Hearing lips and seeing voices. Nature, 264 (5588), 746-748.
-
-Shindo, M., Kaga, K. and Tanaka, Y. (1991). Speech discrimination and lipreading in patients with word deafness or auditory agnosia. Brain and Language 40 (2), 153-161.
-
-Youse, K. M., Cienkowski, K. M. and Coelho, C. A. (2004). Auditory-visual speech perception in an adult with aphasia. Brain Injury, 18 (8), 825-834.
