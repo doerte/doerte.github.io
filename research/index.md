@@ -14,6 +14,9 @@ After finishing my PhD, I have worked at the University of Groningen as Assistan
      
 ***
      
-Besides my work on the multimodality of speech comprehension (especially in aphasia) I am also generally interested in psycho- and neurolinguistic research on language comprehension, aphasia and the remediation of aphasia (see also my ['diploma thesis'](/research/diploma.html)) . Another key interest of mine regards experimental methods and the setting up of experiments, both online and offline. My experience with online methods mainly concerns ERP recordings and analysis, though I am also interested in other imaging techniques.  
+Besides my work on the multimodality of speech comprehension (especially in aphasia) I am also generally interested in psycho- and neurolinguistic research on language comprehension, aphasia and the remediation of aphasia (see also my ['diploma thesis'](/research/diploma.html)) . Another key interest of mine regards experimental methods and the setting up of experiments, both online and offline. My experience with online methods mainly concerns ERP recordings and analysis, though I am also interested in other imaging techniques. 
+
+***
+You can find a list of my publications [here](/research/publications.html). 
 
 
