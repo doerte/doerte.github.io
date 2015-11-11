@@ -22,9 +22,15 @@ After finishig my PhD in 2011, I continued to work at the University of Groninge
 
 During my time as PhD candidate at the University of Groningen, I was one of the initiators and co-founders of the PhD Council of the Faculty of Arts/Graduate School of Humanities. The PhD Council was founded in 2010 and I was its first chair from Januart 2010 til February 2011. Our main objective at that time was to voice the opininon of the PhD candidates during the establishment of a new Graduate School. At the same time, I also represented the PhD candidates in the advisory board of our research institute (CLCG).
 
+
+***
+
 #### Groningen (2009): Co-organizer TABU Dag
 
 In 2009, I was co-organizer of a local conference, TABU Dag, which celebrated it 30th anniversary that year. As organizing committee, we therefore decided to extend duration to two full days (rather than one) and open it to interested presenters and participants from outside our own institute. The conference was a big success with a larger number of participants (174 participants from 19 countries) than ever before and four well-known invited speakers (Jack Chambers, Ken Church, Marianne Gullberg, Matthias Schlesewsky).
+
+
+***
 
 #### Groningen (2007-2013): Webcoordinator
 
