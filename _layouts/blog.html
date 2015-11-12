@@ -64,16 +64,11 @@
 	<section id="content">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-8">
-				{{content}}
-			</div>
 			<div class="col-lg-4">
-				<aside class="right-sidebar">
-				<!--div class="widget">
-					<form class="form-search">
-						<input class="form-control" type="text" placeholder="Search..">
-					</form>
-				</div-->
+				<aside class="left-sidebar">
+				<div class="widget">
+				<img src="/img/profile.jpg" alt="Photograph of Dörte">
+				</div>
 				<div class="widget">
 					<h5 class="widgetheading">Categories</h5>
 					<ul class="cat">
@@ -92,7 +87,7 @@
 
 	
 				</div>
-				<div class="widget">
+				<!--div class="widget">
 					<h5 class="widgetheading">Latest posts</h5>
 					<ul class="recent">
 						{% for post in site.posts limit:3 %}
@@ -104,29 +99,14 @@
 	 					 </p></li>
     					  </div>
 						{% endfor %}
-
-
 					</ul>
-				</div>
-				<!--div class="widget">
-					<h5 class="widgetheading">Popular tags</h5>
-					<ul class="tags">
-						{% capture tags %}
-						{% for tag in site.tags %}
-    					{{ tag[0] }}
-  						{% endfor %}
-						{% endcapture %}
-						{% assign sortedtags = tags | split:' ' | sort %}
-
-						{% for tag in sortedtags %}
-						<li id="{{ tag | escape }}"><a href="/blog/tags.html">{{ tag }}</a></li>
-						{% endfor %}
-					</ul>
-					
-
-
 				</div-->
+
+
 				</aside>
+			</div>
+			<div class="col-lg-8">
+				{{content}}
 			</div>
 		</div>
 	</div>
