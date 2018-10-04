@@ -4,18 +4,18 @@ title: Management
 menu: menuManagement
 ---
 
-#### Stuttgart (since 2016): Project Manager PSE Stuttgart-Ludwigsburg
+#### Stuttgart (2016-2018): Project Manager PSE Stuttgart-Ludwigsburg
 
-Since September 2016, I work at the [Professional School of Education Stuttgart-Ludwigsburg](http://www.pse-stuttgart-ludwigsburg.de) as project manager in the BMBF-funded project "Lehrerbildung PLUS". The PSE Stuttgart-Ludwigsburg is a common effort of 5 participating universities in the Stuttgart area to improve the education of teachers by combining the respective strenghts of the five partners. The PSE coordinates common tasks and projects, facilitates scientific exchange and strives to develop common ideas and impulses for further development of the teacher education.
-My tasks are mainly in the area of project management, including the coordination of tasks and ressources, reporting and the project milestones within the project and in collaboration with the funding agency. 
-I am a member of the team "Communication and Information" and therefore also participate in tasks in the are of public relations.
+From September 2016 until October 2018, I worked at the [Professional School of Education Stuttgart-Ludwigsburg](http://www.pse-stuttgart-ludwigsburg.de) as project manager in the BMBF-funded project "Lehrerbildung PLUS". The PSE Stuttgart-Ludwigsburg is a common effort of 5 participating universities in the Stuttgart area to improve the education of teachers by combining the respective strenghts of the five partners. The PSE coordinates common tasks and projects, facilitates scientific exchange and strives to develop common ideas and impulses for further development of the teacher education.
+My tasks were mainly in the area of project management, including the coordination of tasks and ressources, reporting and the project milestones within the project and in collaboration with the funding agency. 
+I was a member of the team "Communication and Information" and therefore also participated in tasks in the area of public relations.
 
 
 ***
 
-#### Tübingen (since 2013): Project Manager CLARIN-D
+#### Tübingen (2013-2016): Project Manager CLARIN-D
 
-Since December 2013, I work in the [CLARIN-D](http://www.clarin-d.net) project as project manager. CLARIN-D is provides a research infrastructure for Humanities and Social Science Scholars and is a member of the CLARIN ERIC. In Germany, there are 9 CLARIN centers forming the consortium. This consortium is coordinated by the Tübingen Management Team. Within this team, my responsibilities lie in the coordination of and contribution to research proposals and reports, the financial planning of the overall project and the Tübingen center, staff planning of the Tübingen center (including reviewing of job applications) and the organization of meetings and events both within the project and towards the general (scientific) public (such as [TLT 13](http://tlt13.sfs.uni-tuebingen.de/) or [Forum CA^3 2016](http://www.clarin-d.de/de/aktuelles/forum-ca3-2016)). Furthermore, I also provided the administrative support for the CLARIN ERIC National Coordinators' Forum until April 2016. 
+From December 2013 until October 2016, I worked in the [CLARIN-D](http://www.clarin-d.net) project as project manager. CLARIN-D is provides a research infrastructure for Humanities and Social Science Scholars and is a member of the CLARIN ERIC. In Germany, there are 9 CLARIN centers forming the consortium. This consortium is coordinated by the Tübingen Management Team. Within this team, my responsibilities was in the coordination of and contribution to research proposals and reports, the financial planning of the overall project and the Tübingen center, staff planning of the Tübingen center (including reviewing of job applications) and the organization of meetings and events both within the project and towards the general (scientific) public (such as [TLT 13](http://tlt13.sfs.uni-tuebingen.de/) or [Forum CA^3 2016](http://www.clarin-d.de/de/aktuelles/forum-ca3-2016)). Furthermore, I also provided the administrative support for the CLARIN ERIC National Coordinators' Forum until April 2016. 
 
 
 ***
