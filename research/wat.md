@@ -1,4 +1,4 @@
 <a href="itms-services://?action=download-manifest&
     url=https://drive.google.com/open?id=1uspsYaL52SksUCSMvPVERPXrjwwiGohV">
-    Download WAT-D
+    Download WAT-D 1.0
 </a>
