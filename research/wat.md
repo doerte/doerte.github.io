@@ -7,8 +7,8 @@ topMenu: Research
 ---
 
 ## German WAT
-<a href="itms-services://?action=download-manifest&url=https://doerte.eu/research/manifest.plist">
-    Download version 1.02 (build 2, 28-04-2019)
+<a href="itms-services://?action=download-manifest&url=https://scratch.doerte.eu/WAT/manifest.plist">
+    Download version 1.02 (build 3, 02-05-2019)
 </a>
 
 
