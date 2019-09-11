@@ -5,7 +5,8 @@ menu: menuResearch
 menuLink: research
 ---
 
-Download the poster [here](/poster).
+You can download the poster. [![alt text](/icon512.png)](/poster.pdf)
+
 
 Download the abstract here.
 
