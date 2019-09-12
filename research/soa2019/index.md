@@ -5,7 +5,7 @@ menu: menuResearch
 menuLink: research
 ---
 
-[![alt text](poster-thumbnail.jpg)](poster.pdf) [Get the poster!](poster.pdf). 
+[![alt text](poster-thumbnail.jpg)](poster.pdf) [Get the poster!](poster.pdf) 
 
 
 
