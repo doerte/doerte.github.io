@@ -9,6 +9,8 @@ menuLink: index.html
 
 Publications 
 ------------
+De Kok, D., Hanekamp, S. & Bastiaanse, R. (2019). Linguistic parameters in an app-based assessment of German verbs and nouns in aphasia. [*Stem-, Spraak- en Taalpathologie* 24 (Supplement)](https://sstp.nl/article/view/35738/33292), 169-171.
+
 Arslan, S., de Kok, D. & Bastiaanse, R. (2017). Processing grammatical evidentiality and time reference in Turkish heritage and monolingual speakers. *Bilingualism: Language and Cognition 20*(3), 457-472. [http://dx.doi.org/10.1017/S136672891500084X](http://dx.doi.org/10.1017/S136672891500084X).
 
 De Kok, Daniel, de Kok, Dörte & Hinrichs, Marie (2014). [Build your own treebank](http://www.clarin.eu/sites/default/files/cac2014_submission_8_0.pdf). *Proceedings of the CLARIN Annual Conference*.  Soesterberg, The Netherlands.
@@ -32,7 +34,7 @@ Hessler, D. & Stadie, N. (2008). War die st&ouml;rungsspezifische Behandlung der
 Presentations and Posters
 --------------------------
 
-De Kok, D., Hanekamp, S. & Bastiaanse, R. (2019). [Linguistic parameters in an app-based assessment of German verbs and nouns in aphasia](/soa2019/). Poster presented at 'Science of Aphasia XX', Rome (Italy). [(Abstract)](https://sstp.nl/article/view/35738/33292)
+De Kok, D., Hanekamp, S. & Bastiaanse, R. (2019). [Linguistic parameters in an app-based assessment of German verbs and nouns in aphasia](/research/soa2019/). Poster presented at 'Science of Aphasia XX', Rome (Italy). 
 
 De Kok, D., Wolthuis, N. & Bastiaanse, R. (2013). WAT-App: een tool voor het testen van de productie en het begrip van Werkwoorden en Acties bij afasiepati&euml;nten. Talk given at Symposium ehealth4com, Nijmegen (Netherlands).
 
