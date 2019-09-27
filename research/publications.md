@@ -32,7 +32,7 @@ Hessler, D. & Stadie, N. (2008). War die st&ouml;rungsspezifische Behandlung der
 Presentations and Posters
 --------------------------
 
-De Kok, D., Hanekamp, S. & Bastiaanse, R. (2019). Linguistic parameters in an app-based assessment of German verbs and nouns in aphasia. Poster to be presented at 'Science of Aphasia XX', Rome (Italy).
+De Kok, D., Hanekamp, S. & Bastiaanse, R. (2019). [Linguistic parameters in an app-based assessment of German verbs and nouns in aphasia](/soa2019/). Poster presented at 'Science of Aphasia XX', Rome (Italy). [(Abstract)](https://sstp.nl/article/view/35738/33292)
 
 De Kok, D., Wolthuis, N. & Bastiaanse, R. (2013). WAT-App: een tool voor het testen van de productie en het begrip van Werkwoorden en Acties bij afasiepati&euml;nten. Talk given at Symposium ehealth4com, Nijmegen (Netherlands).
 
