@@ -1,6 +1,6 @@
 ---
 layout: base
-title: WAT
+title: Token Test
 menu: menuResearch
 menuLink: index.html
 topMenu: Research
