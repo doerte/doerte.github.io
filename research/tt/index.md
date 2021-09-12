@@ -7,7 +7,7 @@ topMenu: Research
 ---
 
 ## Token Test
-Find information on [our website](https://www.rug.nl/research/groninger-expertisecentrum-taal-en-communicatiestoornissen/apps/tokentest/)
+Find information on [our website](https://www.rug.nl/research/groninger-expertisecentrum-taal-en-communicatiestoornissen/apps/tokentest/).
 
 You can purchase the Token Test for tablets from:
 - [Google Play store](https://play.google.com/store/apps/details?id=nl.rug.getc.tokentest)
