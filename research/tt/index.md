@@ -7,9 +7,13 @@ topMenu: Research
 ---
 
 ## Token Test
-<a href="itms-services://?action=download-manifest&url=https://scratch.doerte.eu/tt/manifest.plist">
-    Download version 2.6.2 (build 10, 29-10-2020)
-</a>
+Find information on [our website](https://www.rug.nl/research/groninger-expertisecentrum-taal-en-communicatiestoornissen/apps/tokentest/)
+
+You can purchase the Token Test for tablets from:
+- [Google Play store](https://play.google.com/store/apps/details?id=nl.rug.getc.tokentest)
+- [Apple AppStore, iPad only](https://apps.apple.com/us/app/rug-token-test/id1519395927)
+
+
 
 
 
