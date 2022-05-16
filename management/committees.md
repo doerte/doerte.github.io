@@ -1,4 +1,4 @@
-- BAC Prof Neurolinguistiek
-- BAC UD Psycholinguistiek
-- BAC UD Klankleer
-- Selection Committee CLCG
+- BAC Prof Neurolinguistiek (2021)
+- BAC UD Psycholinguistiek (2021)
+- BAC UD Klankleer (2022)
+- Selection Committee CLCG (2022)
