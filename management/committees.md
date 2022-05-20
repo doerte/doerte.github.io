@@ -1,3 +1,9 @@
+---
+layout: base
+title: Management
+menu: menuManagement
+---
+
 # Selection Committees
 
 - BAC Prof Neurolinguistiek (2021)
