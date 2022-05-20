@@ -1,11 +1,11 @@
-#Positions
+# Selection Committees
 
 - BAC Prof Neurolinguistiek (2021)
 - BAC UD Psycholinguistiek (2021)
 - BAC UD Klankleer (2022)
 - PhD candidate selection Committee CLCG (2022)
 
-#PhD defenses
+# PhD defenses
 
 - Corona Frank Tsiwah (UG, 2021)
 - Corona Irene Graafsma (UG, 2021)
