@@ -13,5 +13,3 @@ topMenu: Research
 - Judith Feiken
 - Abena Owusu Antwi
 - Jocelyn Lubbers
-
-# Supervised Masters theses
