@@ -17,3 +17,10 @@ menu: menuManagement
 - Corona Irene Graafsma (UG, 2021)
 - Diane Meziere (UG, 2022)
 - Reading Committee Giorgia Cistola, (UPF Barcelona, 2022)
+
+# Reviewing for
+- Aphasiology
+- Frontiers in Neurology
+- PlosOne
+- Disability & Rehabilitation: Assistive Technology
+- International Journal of Speech-Language Pathology
