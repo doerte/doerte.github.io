@@ -23,7 +23,7 @@ Hessler, D., Jonkers, R., Stowe, L. & Bastiaanse, R. (2013). The whole is more t
 
 Hessler, D., Jonkers, R. & Bastiaanse, R. (2012). [Processing of audiovisual stimuli in aphasic and non-brain-damaged listeners.](http://www.tandfonline.com/doi/abs/10.1080/02687038.2011.608840) *Aphasiology* 26, 83-102.
 
-Hessler, D. (2011). [Audiovisual processing in aphasic and non-brain-damaged listeners. The whole is more than the sum of its parts.](http://irs.ub.rug.nl/ppn/338802789) PhD Thesis. 
+Hessler, D. (2011). [Audiovisual processing in aphasic and non-brain-damaged listeners. The whole is more than the sum of its parts.](https://hdl.handle.net/11370/2a5b1ba0-0bdf-42ef-aece-1d3ef55a8f52) PhD Thesis. 
 
 Hessler, D. (2011). Audiovisuelle Verarbeitung von Phonemen bei Aphasie. In Hanne, S., Fritzsche, T., Ott, S., Adelt, A. (eds.) [*Spektrum Patholinguistik (4)*](http://opus.kobv.de/ubp/volltexte/2011/5314/pdf/spath04.pdf). Potsdam: Universitätsverlag Potsdam.
 
