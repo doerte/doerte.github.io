@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: redirect
 title: Thesis
 menu: menuResearch
 menuLink: research
